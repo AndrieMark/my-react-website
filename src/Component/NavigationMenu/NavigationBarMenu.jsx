@@ -132,6 +132,7 @@ function NavigationBarMenu() {
       <span className="pi pi-arrow-up" style={{fontSize : '1rem'}}></span>
       </button>
     )}
+
     </>
   );
 }
