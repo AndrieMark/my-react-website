@@ -1,21 +1,23 @@
 {
   "files": {
-    "main.css": "/my-react-website/static/css/main.04dec91c.css",
-    "main.js": "/my-react-website/static/js/main.87ee5477.js",
+    "main.css": "/my-react-website/static/css/main.30f4908d.css",
+    "main.js": "/my-react-website/static/js/main.a04cda51.js",
     "static/js/453.557ad70b.chunk.js": "/my-react-website/static/js/453.557ad70b.chunk.js",
     "static/media/video-1.mp4": "/my-react-website/static/media/video-1.59e75226d30ad48f9ede.mp4",
+    "static/media/InterVariable-Italic.woff2": "/my-react-website/static/media/InterVariable-Italic.e295f70fe3e2df296c7b.woff2",
+    "static/media/InterVariable.woff2": "/my-react-website/static/media/InterVariable.a0e477f2f1f9d2376fde.woff2",
     "static/media/primeicons.svg": "/my-react-website/static/media/primeicons.6ed59f962963a4a73af2.svg",
     "static/media/primeicons.eot": "/my-react-website/static/media/primeicons.ff0c4cd79b2ffca2de54.eot",
     "static/media/primeicons.woff": "/my-react-website/static/media/primeicons.8931fda1930c3bd21e96.woff",
     "static/media/primeicons.ttf": "/my-react-website/static/media/primeicons.a5c2a53d1ff7a9ff5933.ttf",
     "static/media/primeicons.woff2": "/my-react-website/static/media/primeicons.024b32cc7bf399b1a847.woff2",
     "index.html": "/my-react-website/index.html",
-    "main.04dec91c.css.map": "/my-react-website/static/css/main.04dec91c.css.map",
-    "main.87ee5477.js.map": "/my-react-website/static/js/main.87ee5477.js.map",
+    "main.30f4908d.css.map": "/my-react-website/static/css/main.30f4908d.css.map",
+    "main.a04cda51.js.map": "/my-react-website/static/js/main.a04cda51.js.map",
     "453.557ad70b.chunk.js.map": "/my-react-website/static/js/453.557ad70b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.04dec91c.css",
-    "static/js/main.87ee5477.js"
+    "static/css/main.30f4908d.css",
+    "static/js/main.a04cda51.js"
   ]
 }
