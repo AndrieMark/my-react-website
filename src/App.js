@@ -1,6 +1,6 @@
 // import './Component/Appwithdirect.jsx';
 import AppWithRedirect from './Component/Appwithdirect.jsx';
-import { BrowserRouter as Router, Routes, Route, useLocation, useNavigate } from 'react-router-dom';
+import { HashRouter as Router, Route, Routes } from 'react-router-dom';
 
 function App() {
   return (
